@@ -1,0 +1,7 @@
+pageObjects\LandingPage.class
+Academy\HomePage.class
+pageObjects\LoginPage.class
+Academy\ValidateTitle.class
+resources\base.class
+Academy\AppTest.class
+Academy\ValidateNavigationBar.class
